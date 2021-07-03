@@ -77,5 +77,10 @@ create table bookPackage(username varchar(30), package varchar(40), persons varc
 
 
 
-	Don't forget to use mysql-connertor jar file in your libraries. [^1]
-	[title](https://github.com/iamkishan067/Travel-Management-System/tree/main/dist/lib)
+
+
+#### Don't forget to use mysql-connector jar file in your libraries. The link is given below.
+
+[mysql-connector-java-5.1.49](https://github.com/iamkishan067/Travel-Management-System/tree/main/dist/lib)
+
+
