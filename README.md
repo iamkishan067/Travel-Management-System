@@ -78,4 +78,4 @@ create table bookPackage(username varchar(30), package varchar(40), persons varc
 
 
 	Don't forget to use mysql-connertor jar file in your libraries. [^1]
-	[title](https://www.example.com)
+	[title](https://github.com/iamkishan067/Travel-Management-System/tree/main/dist/lib)
