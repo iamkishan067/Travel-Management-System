@@ -51,7 +51,6 @@ public class DashBoard extends JFrame implements ActionListener{
         b1.setForeground(Color.WHITE);
         b1.setBackground(new Color(0,0,102));
         b1.addActionListener(this);
-//        b1.setMargin(new Insets(20,0,0,50));//(top,left, bottom, right)
         b1.setFont(new Font("Tahoma", Font.PLAIN, 15));
         p2.add(b1);
         
