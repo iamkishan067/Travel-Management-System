@@ -14,7 +14,6 @@ class Login extends JFrame implements ActionListener{
     JButton b1, b2, b3;
     JPasswordField t2;
     JTextField t1;
-//    ImageIcon icon;
     
     Login(){
         
@@ -22,9 +21,6 @@ class Login extends JFrame implements ActionListener{
         getContentPane().setBackground(Color.white);
         setBounds(650, 300, 800, 440);
         setTitle("Login");
-        
-//        icon = new ImageIcon("travel/management/system/icons/k.png");
-//        setIconImage(icon.getImage());
         
         JPanel p1 = new JPanel();
         p1.setBounds(0, 0, 400, 400);
