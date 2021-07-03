@@ -2,6 +2,8 @@
 # Travel-Management-System
 Travel Management System designed using java swing, awt &amp; mysql.
 
+This is just an overview of management in the travel & tourism company. It manages and maintains the records of customers, hotels, packages of the travel company. The project is aimed to maintain the day-to-day state of holidays/vacation of customers, List of hotels, package details etc. Main objective of this project is to provide solution for travel company to manage most there work using computerized process. This software application will help admin to handle customer information, hotels allocation details, custmer details etc.
+
 
 
 
